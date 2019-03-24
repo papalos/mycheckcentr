@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<student>
+		<group>2017</group>
+		<number>281</number>
+		<surname>Петрикова</surname>
+		<name>Юлия</name>
+		<patronymic>Анатольевна</patronymic>
+		<DOB>1993-07-17</DOB>
+		<sex>Жен.</sex>
+		<heading>Юриспруденция</heading>
+		<code>2104</code>
+		<section>Финансовое, налоговое и таможенное право</section>
+		<score>59</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>284</number>
+		<surname>Быстриков</surname>
+		<name>Леонид</name>
+		<patronymic>Дмитриевич</patronymic>
+		<DOB>1997-03-24</DOB>
+		<sex>Муж.</sex>
+		<heading>Психология</heading>
+		<code>082</code>
+		<section>Прикладная социальная психология / Applied Social psychology</section>
+		<score>62</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>286</number>
+		<surname>Дорошко</surname>
+		<name>Алена</name>
+		<patronymic>Викторовна</patronymic>
+		<DOB>1977-11-22</DOB>
+		<sex>Жен.</sex>
+		<heading>Психология</heading>
+		<code>081</code>
+		<section>Консультативная психология. Персонология</section>
+		<score>55</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>288</number>
+		<surname>Баранкина</surname>
+		<name>Елизавета</name>
+		<patronymic>Артемовна</patronymic>
+		<DOB>1995-02-06</DOB>
+		<sex>Жен.</sex>
+		<heading>Бизнес-информатика</heading>
+		<code>170</code>
+		<section>Бизнес-информатика</section>
+		<score>33</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>296</number>
+		<surname>Медведь</surname>
+		<name>Марина</name>
+		<patronymic>Вячеславовна</patronymic>
+		<DOB>1995-10-20</DOB>
+		<sex>Жен.</sex>
+		<heading>Бизнес-информатика</heading>
+		<code>171</code>
+		<section>Электронный бизнес</section>
+		<score>35</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>299</number>
+		<surname>Мишкина</surname>
+		<name>Анна</name>
+		<patronymic>Дмитриевна</patronymic>
+		<DOB>1986-01-16</DOB>
+		<sex>Жен.</sex>
+		<heading>Культурология</heading>
+		<code>340</code>
+		<section>Прикладная культурология</section>
+		<score>96</score>
+		<result>Диплом I степени</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>301</number>
+		<surname>Василькова</surname>
+		<name>Мария</name>
+		<patronymic>Валерьевна</patronymic>
+		<DOB>1993-05-06</DOB>
+		<sex>Жен.</sex>
+		<heading>История</heading>
+		<code>321</code>
+		<section>История художественной культуры и рынок искусства</section>
+		<score>95</score>
+		<result>Диплом II степени</result>
+	</student>
+	<student>
+		<group>2017</group>
+		<number>302</number>
+		<surname>Глам</surname>
+		<name>Алексей</name>
+		<patronymic>Юрьевич</patronymic>
+		<DOB>1993-03-07</DOB>
+		<sex>Жен.</sex>
+		<heading>Менеджмент</heading>
+		<code>140</code>
+		<section>Маркетинг</section>
+		<score>67</score>
+		<result>Диплом III степени</result>
+	</student>	
+</root>

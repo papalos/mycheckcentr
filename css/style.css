@@ -1,0 +1,76 @@
+﻿#form{
+    background-color:cornsilk;
+}
+
+#innerform {
+    margin: auto;
+    padding: 20px;
+    width:350px;
+    
+    background-color: aqua;
+}
+
+#Button{
+    margin:auto;
+    display:block;
+}
+
+#botom{
+    margin:20px;
+    color:red;
+    text-align:center;
+}
+#header {
+    font-family: serif;
+    font-size: 16pt;
+    text-align: center;
+    margin: 32pt 0pt 60pt 0pt;
+}
+
+#there {
+    font-family: serif;
+    font-size: 14pt;
+    text-align: left;
+    margin: auto;
+    font-style:italic;
+}
+
+#date {
+    font-family: serif;
+    font-size: 14pt;
+    text-align: left;
+    font-style: italic;
+    margin-top: 40pt;
+}
+
+#document {
+    background-image: url(/img/backgraund.jpg);
+    background-repeat:no-repeat;
+    height: 297mm;
+    width: 200mm;
+    background-size: contain;
+    background-position-y: 20px;
+    padding: 30mm;
+    margin: auto;
+}
+
+#title{
+    font-family: serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align:center;
+    margin:12pt;
+}
+
+#generalText {
+    font-family: serif;
+    font-size: 18pt;
+    text-align: justify;
+    margin: 12pt;
+}
+
+#stamp{
+    float:right;
+    height:210px;
+    width:210px;
+}

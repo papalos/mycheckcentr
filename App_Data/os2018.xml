@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<student>
+		<group>2018</group>
+		<number>6139</number>
+		<surname>Скот</surname>
+		<name>Светлана</name>
+		<patronymic>Николаевна</patronymic>
+		<DOB>1995-08-13</DOB>
+		<sex>Жен.</sex>
+		<heading>Демография</heading>
+		<code>200</code>
+		<section>Демография</section>
+		<score>56</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>4055</number>
+		<surname>Тюлень</surname>
+		<name>Марфа</name>
+		<patronymic>Геннадьевна</patronymic>
+		<DOB>1996-04-08</DOB>
+		<sex>Жен.</sex>
+		<heading>Менеджмент</heading>
+		<code>142</code>
+		<section>Стратегии развития бизнеса: управление и консалтинг</section>
+		<score>5</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>1219</number>
+		<surname>Распуткина</surname>
+		<name>Елена</name>
+		<patronymic>Викторовна</patronymic>
+		<DOB>1992-09-06</DOB>
+		<sex>Жен.</sex>
+		<heading>Психология</heading>
+		<code>080</code>
+		<section>Когнитивные науки и технологии: от нейрона к познанию / Cognitive sciences and technologies: from neuron to cognition</section>
+		<score>35</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>2544</number>
+		<surname>Алехина</surname>
+		<name>Тамара</name>
+		<patronymic>Николаевна</patronymic>
+		<DOB>1984-06-27</DOB>
+		<sex>Жен.</sex>
+		<heading>Государственное и муниципальное управление</heading>
+		<code>161</code>
+		<section>Управление и экономика здравоохранения</section>
+		<score>40</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>5379</number>
+		<surname>Мороз</surname>
+		<name>Натан</name>
+		<patronymic>Юрьевич</patronymic>
+		<DOB>1994-11-02</DOB>
+		<sex>Жен.</sex>
+		<heading>Юриспруденция</heading>
+		<code>2110</code>
+		<section>Адвокат по гражданским и уголовным делам</section>
+		<score>45</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>5241</number>
+		<surname>Колобков</surname>
+		<name>Андрей</name>
+		<patronymic>Игоревич</patronymic>
+		<DOB>1995-01-24</DOB>
+		<sex>Жен.</sex>
+		<heading>Государственное и муниципальное управление</heading>
+		<code>160</code>
+		<section>Государственное и муниципальное управление</section>
+		<score>3</score>
+		<result>Участник</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>667</number>
+		<surname>Леонтьева</surname>
+		<name>Кира</name>
+		<patronymic>Анатольевна</patronymic>
+		<DOB>1989-04-12</DOB>
+		<sex>Жен.</sex>
+		<heading>Математические методы анализа экономики</heading>
+		<code>120</code>
+		<section>Математические методы анализа экономики</section>
+		<score>63</score>
+		<result>Диплом II степени</result>
+	</student>
+	<student>
+		<group>2018</group>
+		<number>508</number>
+		<surname>Сигал</surname>
+		<name>Стивен</name>
+		<patronymic>Никкович</patronymic>
+		<DOB>1999-01-09</DOB>
+		<sex>Муж.</sex>
+		<heading>Государственное и муниципальное управление</heading>
+		<code>161</code>
+		<section>Управление и экономика здравоохранения</section>
+		<score>77</score>
+		<result>Диплом III степени</result>
+	</student>	
+</root>
